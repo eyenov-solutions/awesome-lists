@@ -1,13 +1,18 @@
-# Computer Vision
-- [Computer Vision super list](https://github.com/jbhuang0604/awesome-computer-vision)
+# Table of Contents
+ - [Computer Vision](#books)
+ - [Computer games](#courses)
+ - [All around](#papers)
+
+# Computer vision
+- [Computer vision super list](https://github.com/jbhuang0604/awesome-computer-vision)
 - [CImg](https://github.com/dtschump/CImg)
 
-## Face Detection and alignment
+## Face detection and alignment
 - [CenterFace](https://github.com/Star-Clouds/CenterFace)
 - [Face Analysis Project on MXNet](https://github.com/deepinsight/insightface)
 - [Ultra-Light-Fast-Generic-Face-Detector](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 
-## Neural Networks
+## Neural networks
 - [ncnn](https://github.com/Tencent/ncnn)
 - [DIGITS](https://github.com/NVIDIA/DIGITS)
 - pjreddie's [darknet](https://pjreddie.com/darknet/)
@@ -16,13 +21,13 @@
 - [jetcam](https://github.com/NVIDIA-AI-IOT/jetcam)
 - [jetson-inference](https://github.com/dusty-nv/jetson-inference)
 
-## GPU Computing
+## GPU computing
 - [HIP: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm-Developer-Tools/HIP)
 - [Radeon performance primitives](https://github.com/GPUOpen-ProfessionalCompute-Libraries/rpp)
 
-# Computer Games
+# Computer games
 - [Retro Rampage](https://github.com/nicklockwood/RetroRampage)
 - [Retro Doom Dump](https://github.com/fragglet/RomeroDoomDump)
 
-# All Around
+# All around
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
