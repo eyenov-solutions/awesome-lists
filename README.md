@@ -1,5 +1,5 @@
 # Table of Contents
- - [Computer cision](#computer-vision)
+ - [Computer vision](#computer-vision)
  - [Computer games](#computer-games)
  - [All around](#all-around)
 
