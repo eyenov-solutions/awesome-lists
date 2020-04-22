@@ -1,7 +1,7 @@
 # Table of Contents
- - [Computer Vision](#books)
- - [Computer games](#courses)
- - [All around](#papers)
+ - [Computer cision](#computer-vision)
+ - [Computer games](#computer-games)
+ - [All around](#all-around)
 
 # Computer vision
 - [Computer vision super list](https://github.com/jbhuang0604/awesome-computer-vision)
