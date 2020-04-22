@@ -28,6 +28,8 @@
 # Computer games
 - [Retro Rampage](https://github.com/nicklockwood/RetroRampage)
 - [Retro Doom Dump](https://github.com/fragglet/RomeroDoomDump)
+- [raylib](https://github.com/raysan5/raylib)
+- [OneLoneCoder](https://github.com/OneLoneCoder) 
 
 # All around
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
