@@ -18,6 +18,9 @@
 ## Image Processing
 - [frei0r](https://github.com/dyne/frei0r)
 - [photofilter](https://github.com/mukeshsolanki/photofilter)
+- [GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android)
+- [GPUImage](https://github.com/BradLarson/GPUImage)
+- [EZFilter](https://github.com/uestccokey/EZFilter)
 
 ## Face detection and alignment
 - [CenterFace](https://github.com/Star-Clouds/CenterFace)
@@ -51,6 +54,7 @@
 - [essentia](https://github.com/MTG/essentia)
 - [sonic](https://github.com/waywardgeek/sonic)
 - [TarsosDSP](https://github.com/JorenSix/TarsosDSP)
+- [AudioMarkerFinder](https://github.com/ArtScienceLab/JAVA_AudioMarkerFinder)
 
 
 # Video
@@ -77,11 +81,11 @@
 - visual equaliser [Horizon](https://github.com/Yalantis/Horizon)
 - [uCrop](https://github.com/Yalantis/uCrop)
 - [ExoPlayer](https://github.com/google/ExoPlayer)
+- [ExoPlayerFilter](https://github.com/MasayukiSuda/ExoPlayerFilter)
 - [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView)
 - [media-samples](https://github.com/android/media-samples)
-
-# iOS
-- [GPUImage](https://github.com/BradLarson/GPUImage)
+- [blurkit-android](https://github.com/CameraKit/blurkit-android)
+- [CameraBlur](https://github.com/Gauravv97/CameraBlur)
 
 # All around
 - [build your own x](https://github.com/danistefanovic/build-your-own-x)
