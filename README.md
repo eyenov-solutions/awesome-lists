@@ -8,6 +8,7 @@
 - [CImg](https://github.com/dtschump/CImg)
 - [pymatting](https://github.com/pymatting/pymatting)
 - [code from opencv-code.com](https://github.com/bsdnoobz/opencv-code)
+- [MasteringOpenCV](https://github.com/MasteringOpenCV/code)
 - [panorama stitching](https://github.com/HYPJUDY/panorama-image-stitching)
 - [libcvd](https://github.com/edrosten/libcvd)
 - [learnopencv](https://github.com/spmallick/learnopencv)
@@ -16,6 +17,7 @@
 
 ## Image Processing
 - [frei0r](https://github.com/dyne/frei0r)
+- [photofilter](https://github.com/mukeshsolanki/photofilter)
 
 ## Face detection and alignment
 - [CenterFace](https://github.com/Star-Clouds/CenterFace)
@@ -47,6 +49,13 @@
 - [spleeter](https://github.com/deezer/spleeter)
 - [musicg](https://github.com/loisaidasam/musicg)
 - [essentia](https://github.com/MTG/essentia)
+- [sonic](https://github.com/waywardgeek/sonic)
+- [TarsosDSP](https://github.com/JorenSix/TarsosDSP)
+
+
+# Video
+- [mp4parser](https://github.com/sannies/mp4parser)
+- [jcodec](https://github.com/jcodec/jcodec)
 
 # Computer games
 - [Retro Rampage](https://github.com/nicklockwood/RetroRampage)
@@ -57,10 +66,27 @@
 - [pixel-eight](https://github.com/thaggie/pixel-eight)
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace)
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine)
+- [halflifea](https://github.com/ValveSoftware/halflifea)
+- [phaser](https://github.com/photonstorm/phaser)
+- [pixi](https://github.com/pixijs/pixi.js)
+- [godot](https://github.com/godotengine/godot)
+
+# Android
+- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+- [Bolts](https://github.com/BoltsFramework/Bolts-Android)
+- visual equaliser [Horizon](https://github.com/Yalantis/Horizon)
+- [uCrop](https://github.com/Yalantis/uCrop)
+- [ExoPlayer](https://github.com/google/ExoPlayer)
+- [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView)
+- [media-samples](https://github.com/android/media-samples)
+
+# iOS
+- [GPUImage](https://github.com/BradLarson/GPUImage)
 
 # All around
 - [build your own x](https://github.com/danistefanovic/build-your-own-x)
 - [papers with code](https://github.com/zziz/pwc)
 - [opengles books](https://github.com/danginsburg/opengles-book-samples)
 - [google-10000-english](https://github.com/first20hours/google-10000-english)
+
 
