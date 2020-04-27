@@ -1,6 +1,7 @@
 # Table of Contents
  - [Computer vision](#computer-vision)
  - [Computer games](#computer-games)
+ - [cpp](#cpp)
  - [All around](#all-around)
 
 # Computer vision
@@ -86,6 +87,10 @@
 - [media-samples](https://github.com/android/media-samples)
 - [blurkit-android](https://github.com/CameraKit/blurkit-android)
 - [CameraBlur](https://github.com/Gauravv97/CameraBlur)
+
+# cpp
+- [modern cpp features](https://github.com/AnthonyCalandra/modern-cpp-features)
+- [better enums](https://aantron.github.io/better-enums)
 
 # All around
 - [build your own x](https://github.com/danistefanovic/build-your-own-x)
