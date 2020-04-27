@@ -92,5 +92,7 @@
 - [papers with code](https://github.com/zziz/pwc)
 - [opengles books](https://github.com/danginsburg/opengles-book-samples)
 - [google-10000-english](https://github.com/first20hours/google-10000-english)
-
+- [free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [the .gitignore](https://github.com/github/gitignore)
+- [public apis](https://github.com/public-apis/public-apis)
 
