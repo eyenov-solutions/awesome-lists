@@ -15,6 +15,7 @@
 - [learnopencv](https://github.com/spmallick/learnopencv)
 - [dlib](https://github.com/davisking/dlib)
 - [opencv](https://github.com/opencv/opencv)
+- [image-resampler](https://github.com/ramenhut/image-resampler)
 
 ## Image Processing
 - [frei0r](https://github.com/dyne/frei0r)
@@ -44,6 +45,7 @@
 - [jetson-inference](https://github.com/dusty-nv/jetson-inference)
 - [uniml](https://github.com/microsoft/unilm)
 - [ofxLearn](https://github.com/genekogan/ofxLearn)
+- [awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
 
 ## GPU computing
 - [HIP: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm-Developer-Tools/HIP)
@@ -75,6 +77,7 @@
 - [phaser](https://github.com/photonstorm/phaser)
 - [pixi](https://github.com/pixijs/pixi.js)
 - [godot](https://github.com/godotengine/godot)
+- [SimplexNoise](https://github.com/SRombauts/SimplexNoise)
 
 # Android
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
@@ -87,10 +90,17 @@
 - [media-samples](https://github.com/android/media-samples)
 - [blurkit-android](https://github.com/CameraKit/blurkit-android)
 - [CameraBlur](https://github.com/Gauravv97/CameraBlur)
+- [Transcoder mediacoded](https://github.com/natario1/Transcoder) 
+- [Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android)
+
+# c
+- [type safe containers in pure C](https://github.com/P-p-H-d/mlib)
+- [libsrt](https://github.com/faragon/libsrt)
 
 # cpp
 - [modern cpp features](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [better enums](https://aantron.github.io/better-enums)
+- [A beautiful stack trace pretty printer for C++](https://github.com/bombela/backward-cpp)
 
 # All around
 - [build your own x](https://github.com/danistefanovic/build-your-own-x)
@@ -100,4 +110,5 @@
 - [free programming books](https://github.com/EbookFoundation/free-programming-books)
 - [the .gitignore](https://github.com/github/gitignore)
 - [public apis](https://github.com/public-apis/public-apis)
+- [stb](https://github.com/nothings/stb)
 
