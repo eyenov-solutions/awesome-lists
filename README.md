@@ -16,6 +16,7 @@
 - [dlib](https://github.com/davisking/dlib)
 - [opencv](https://github.com/opencv/opencv)
 - [image-resampler](https://github.com/ramenhut/image-resampler)
+- [Rembg - Background Removal] https://github.com/danielgatis/rembg
 
 ## Image Processing
 - [frei0r](https://github.com/dyne/frei0r)
