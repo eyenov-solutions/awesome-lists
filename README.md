@@ -21,6 +21,7 @@
 - [Rembg](https://github.com/danielgatis/rembg)
 - [U-2-Net](https://github.com/NathanUA/U-2-Net)
 - [U-2-Net-Demo](https://github.com/shreyas-bk/U-2-Net-Demo)
+- [image-background-remove-tool](https://github.com/OPHoperHPO/image-background-remove-tool)
 
 ## Image Processing
 - [frei0r](https://github.com/dyne/frei0r)
