@@ -18,8 +18,9 @@
 - [image-resampler](https://github.com/ramenhut/image-resampler)
 
 ## Background Removal
-- [Rembg] https://github.com/danielgatis/rembg
-- [U-2-Net-Demo] https://github.com/shreyas-bk/U-2-Net-Demo
+- [Rembg](https://github.com/danielgatis/rembg)
+- [U-2-Net](https://github.com/NathanUA/U-2-Net)
+- [U-2-Net-Demo](https://github.com/shreyas-bk/U-2-Net-Demo)
 
 ## Image Processing
 - [frei0r](https://github.com/dyne/frei0r)
