@@ -37,6 +37,8 @@
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 - [face_classification](https://github.com/oarriaga/face_classification)
 - [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
+- [face-aligment](https://github.com/1adrianb/face-alignment)
+
 
 ## Machine Learning
 - [ncnn](https://github.com/Tencent/ncnn)
