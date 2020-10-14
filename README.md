@@ -34,6 +34,8 @@
 - [CenterFace](https://github.com/Star-Clouds/CenterFace)
 - [Face Analysis Project on MXNet](https://github.com/deepinsight/insightface)
 - [Ultra-Light-Fast-Generic-Face-Detector](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
+- [LFFD: A Light and Fast Face Detector for Edge Devices](https://github.com/SyGoing/LFFD-MNN)
+- [A-Light-and-Fast-Face-Detector-for-Edge-Devices](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 - [face_classification](https://github.com/oarriaga/face_classification)
 - [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
@@ -54,6 +56,8 @@
 - [uniml](https://github.com/microsoft/unilm)
 - [ofxLearn](https://github.com/genekogan/ofxLearn)
 - [awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- [detecto](https://github.com/alankbi/detecto)
 
 ## GPU computing
 - [HIP: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm-Developer-Tools/HIP)
@@ -106,9 +110,12 @@
 - [libsrt](https://github.com/faragon/libsrt)
 
 # cpp
+- [awesome-hpp](https://github.com/p-ranav/awesome-hpp)
 - [modern cpp features](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [better enums](https://aantron.github.io/better-enums)
 - [A beautiful stack trace pretty printer for C++](https://github.com/bombela/backward-cpp)
+- [pipes](https://github.com/joboccara/pipes)
+- [promise-cpp](https://github.com/xhawk18/promise-cpp)
 
 # All around
 - [build your own x](https://github.com/danistefanovic/build-your-own-x)
