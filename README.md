@@ -14,6 +14,7 @@
 - [libcvd](https://github.com/edrosten/libcvd)
 - [learnopencv](https://github.com/spmallick/learnopencv)
 - [dlib](https://github.com/davisking/dlib)
+- [dlib-minified-models](https://github.com/Luca96/dlib-minified-models)
 - [opencv](https://github.com/opencv/opencv)
 - [image-resampler](https://github.com/ramenhut/image-resampler)
 
