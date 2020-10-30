@@ -17,6 +17,7 @@
 - [dlib-minified-models](https://github.com/Luca96/dlib-minified-models)
 - [opencv](https://github.com/opencv/opencv)
 - [image-resampler](https://github.com/ramenhut/image-resampler)
+- [guided-filter](https://github.com/atilimcetin/guided-filter)
 
 ## Background Removal
 - [Rembg](https://github.com/danielgatis/rembg)
