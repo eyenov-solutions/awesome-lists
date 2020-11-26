@@ -18,6 +18,11 @@
 - [opencv](https://github.com/opencv/opencv)
 - [image-resampler](https://github.com/ramenhut/image-resampler)
 - [guided-filter](https://github.com/atilimcetin/guided-filter)
+- [elipse-detector](https://github.com/dlut-dimt/ellipse-detector)
+- [Edge-based-Salient-Boundary-Tracking](https://github.com/NathanUA/Edge-based-Salient-Boundary-Tracking)
+- [Bring old photos back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+- [Fast Ellipse Detection](https://github.com/Li-Zhaoxi/AAMED)
+- [Guided Filter](https://github.com/atilimcetin/guided-filter)
 
 ## Background Removal
 - [Rembg](https://github.com/danielgatis/rembg)
@@ -32,6 +37,7 @@
 - [GPUImage](https://github.com/BradLarson/GPUImage)
 - [EZFilter](https://github.com/uestccokey/EZFilter)
 
+
 ## Face detection and alignment
 - [CenterFace](https://github.com/Star-Clouds/CenterFace)
 - [Face Analysis Project on MXNet](https://github.com/deepinsight/insightface)
@@ -42,6 +48,9 @@
 - [face_classification](https://github.com/oarriaga/face_classification)
 - [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
 - [face-aligment](https://github.com/1adrianb/face-alignment)
+- [face detection and recognition using dlib](https://github.com/arrufat/face)
+- [ncnn facetrack](https://github.com/qaz734913414/Ncnn_FaceTrack)
+- [HyperFT](https://github.com/zeusees/HyperFT)
 
 
 ## Machine Learning
@@ -60,6 +69,11 @@
 - [awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [detecto](https://github.com/alankbi/detecto)
+- [u-2-net cartoon](https://github.com/NathanUA/U-2-Net)
+- [nanodet Super fast and lightweight anchor-free object detection model. Real-time on mobile devices](https://github.com/RangiLyu/nanodet)
+- [openpifpaf pose](https://github.com/vita-epfl/openpifpaf)
+- [ncnn example](https://github.com/MirrorYuChen/ncnn_example)
+- [Realtime Image Animation](https://github.com/anandpawara/Real_Time_Image_Animation)
 
 ## GPU computing
 - [HIP: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm-Developer-Tools/HIP)
