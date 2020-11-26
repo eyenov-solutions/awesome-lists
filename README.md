@@ -25,6 +25,9 @@
 - [Guided Filter](https://github.com/atilimcetin/guided-filter)
 - [Live Video Magnification](https://github.com/tschnz/Live-Video-Magnification)
 - [Mastering Open Cv](https://github.com/MasteringOpenCV/code)
+- [Edge Drawing - edge detection](https://github.com/CihanTopal/ED_Lib)
+- [Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker)
+- [LogPolarFFTTemplateMatcher](https://github.com/Smorodov/LogPolarFFTTemplateMatcher)
 
 ## Background Removal
 - [Rembg](https://github.com/danielgatis/rembg)
@@ -39,6 +42,7 @@
 - [GPUImage](https://github.com/BradLarson/GPUImage)
 - [EZFilter](https://github.com/uestccokey/EZFilter)
 - [Shadercam](https://github.com/googlecreativelab/shadercam)
+- [Pixel Level Editing](https://github.com/scut-mingqinchen/generic_pixel-level_editing)
 
 
 ## Face detection and alignment
@@ -124,6 +128,7 @@
 - [CameraBlur](https://github.com/Gauravv97/CameraBlur)
 - [Transcoder mediacoded](https://github.com/natario1/Transcoder) 
 - [Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android)
+- [subsampling scale image view](https://github.com/davemorrissey/subsampling-scale-image-view)
 
 # c
 - [type safe containers in pure C](https://github.com/P-p-H-d/mlib)
