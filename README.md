@@ -23,6 +23,8 @@
 - [Bring old photos back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 - [Fast Ellipse Detection](https://github.com/Li-Zhaoxi/AAMED)
 - [Guided Filter](https://github.com/atilimcetin/guided-filter)
+- [Live Video Magnification](https://github.com/tschnz/Live-Video-Magnification)
+- [Mastering Open Cv](https://github.com/MasteringOpenCV/code)
 
 ## Background Removal
 - [Rembg](https://github.com/danielgatis/rembg)
@@ -36,6 +38,7 @@
 - [GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android)
 - [GPUImage](https://github.com/BradLarson/GPUImage)
 - [EZFilter](https://github.com/uestccokey/EZFilter)
+- [Shadercam](https://github.com/googlecreativelab/shadercam)
 
 
 ## Face detection and alignment
@@ -69,11 +72,12 @@
 - [awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [detecto](https://github.com/alankbi/detecto)
-- [u-2-net cartoon](https://github.com/NathanUA/U-2-Net)
 - [nanodet Super fast and lightweight anchor-free object detection model. Real-time on mobile devices](https://github.com/RangiLyu/nanodet)
 - [openpifpaf pose](https://github.com/vita-epfl/openpifpaf)
 - [ncnn example](https://github.com/MirrorYuChen/ncnn_example)
 - [Realtime Image Animation](https://github.com/anandpawara/Real_Time_Image_Animation)
+- [norfair tracking](https://github.com/tryolabs/norfair)
+- [BMW-YOLOv4-Training-Automation](https://github.com/BMW-InnovationLab/BMW-YOLOv4-Training-Automation)
 
 ## GPU computing
 - [HIP: C++ Heterogeneous-Compute Interface for Portability](https://github.com/ROCm-Developer-Tools/HIP)
