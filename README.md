@@ -28,6 +28,14 @@
 - [Edge Drawing - edge detection](https://github.com/CihanTopal/ED_Lib)
 - [Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker)
 - [LogPolarFFTTemplateMatcher](https://github.com/Smorodov/LogPolarFFTTemplateMatcher)
+- [STag: A Stable Fiducial Marker System](https://github.com/bbenligiray/stag)
+
+# Image Distortion Correction
+- [Optical distortion calculation and correction tool (C/C++ library)](https://github.com/vicrucann/DistCorr-lib)
+- [Blind Geometric Distortion Correction on Images Through Deep Learning](https://github.com/xiaoyu258/GeoProj)
+- [VirtualCam](https://github.com/kaustubh-sadekar/VirtualCam)
+- [panotools lens correction](https://wiki.panotools.org/Lens_correction_model)
+- [Correcting Barrel Distortion](https://www.panotools.org/dersch/barrel/barrel.html) 
 
 ## Background Removal
 - [Rembg](https://github.com/danielgatis/rembg)
