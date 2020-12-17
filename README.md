@@ -30,7 +30,7 @@
 - [LogPolarFFTTemplateMatcher](https://github.com/Smorodov/LogPolarFFTTemplateMatcher)
 - [STag: A Stable Fiducial Marker System](https://github.com/bbenligiray/stag)
 
-# Image Distortion Correction
+## Image Distortion Correction
 - [Optical distortion calculation and correction tool (C/C++ library)](https://github.com/vicrucann/DistCorr-lib)
 - [Blind Geometric Distortion Correction on Images Through Deep Learning](https://github.com/xiaoyu258/GeoProj)
 - [VirtualCam](https://github.com/kaustubh-sadekar/VirtualCam)
