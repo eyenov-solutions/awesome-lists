@@ -66,6 +66,7 @@
 - [face detection and recognition using dlib](https://github.com/arrufat/face)
 - [ncnn facetrack](https://github.com/qaz734913414/Ncnn_FaceTrack)
 - [HyperFT](https://github.com/zeusees/HyperFT)
+- [eyeLike - reatime gaze](https://github.com/trishume/eyeLike)
 
 
 ## Machine Learning
