@@ -29,6 +29,7 @@
 - [Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker)
 - [LogPolarFFTTemplateMatcher](https://github.com/Smorodov/LogPolarFFTTemplateMatcher)
 - [STag: A Stable Fiducial Marker System](https://github.com/bbenligiray/stag)
+- [sbb binarization](https://github.com/qurator-spk/sbb_binarization)
 
 ## Image Distortion Correction
 - [Optical distortion calculation and correction tool (C/C++ library)](https://github.com/vicrucann/DistCorr-lib)
